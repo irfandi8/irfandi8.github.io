@@ -14,8 +14,10 @@
             <h1>{{ site.title }}</h1>
             <p>{{ site.description }}</p>
         </header>
+        <nav>
+            {% include navigation.html %} 
+        </nav>
+        {{ content }}
     </div>
-    {% include navigation.html %} 
-     {{ content }}
 </body>
 </html>

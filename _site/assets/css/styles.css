@@ -10,13 +10,14 @@ p {
 body {
   font-family: Helvetice, sans-serif;
   line-height: 1.6;
+  background-color: #f4f4f4;
 }
 
 header {
   text-align: center;
   padding: 24px;
   color: #fff;
-  background-color: #3b7b3a;
+  background-color: #35c433;
 }
 
 main {
@@ -31,7 +32,7 @@ footer {
   padding: 8px;
   margin-top: 24px;
   color: #fff;
-  background-color: #3b7b3a;
+  background-color: #35c433;
 }
 
 h2 {
@@ -47,7 +48,7 @@ nav ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #3b7b3a;
+  background-color: #35c433;
 }
 nav li {
   float: left;
